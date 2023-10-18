@@ -33,8 +33,8 @@ Installing and Configuring Remote Access:  <br/>
 (https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/97c96b9b-9c4a-47a6-a1bf-0c5b967c8b6d)
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up DHCP and Scope:  <br/>
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/98c6df3b-e31d-45b6-a4fc-4b2ed56e21ba)
 <br />
 <br />
 Sanitization complete:  <br/>
