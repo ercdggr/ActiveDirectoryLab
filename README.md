@@ -12,7 +12,7 @@ In this project, I will be setting up an Active Directory home lab Environment u
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 19</b> (21H2)
+- <b>Windows Server 19</b>
 
 <h2>Program walk-through:</h2>
 
