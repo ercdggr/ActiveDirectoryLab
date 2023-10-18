@@ -14,12 +14,12 @@ In this project, I will be setting up an Active Directory home lab Environment u
 
 - <b>Windows Server 19</b>
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 Setup Windows Server 2019: <br/>
-<img src="https://i.imgur.com/62TgaWL.png"/> alt="Active Directory Steps"/>
-<br />![IP Assignment](https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/25e018fe-7387-419a-9889-671c3a1a2c2f)
+![IP Assignment](https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/a497b62b-7e59-42fd-883c-746e7ebe887e)
+<br />
 
 <br />
 Assigning an IP:  <br/>
