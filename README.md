@@ -18,7 +18,8 @@ In this project, I will be setting up an Active Directory home lab Environment u
 
 <p align="center">
 Setup Windows Server 2019: <br/>
-![IP Assignment](https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/a497b62b-7e59-42fd-883c-746e7ebe887e)
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/66c00ba0-cffb-4697-871f-68ed579db0cc)
+
 <br />
 
 <br />
