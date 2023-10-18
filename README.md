@@ -25,12 +25,12 @@ Assigning an IP:  <br/>
 (https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/2293c8e9-e122-4f1d-a61e-62f998e752a7)
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating a Domain Admin Account: <br/>
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/8a0afebb-ed06-487b-8cd9-ed9256c02d16)
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installing and Configuring Remote Access:  <br/>
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/97c96b9b-9c4a-47a6-a1bf-0c5b967c8b6d)
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
