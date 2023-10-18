@@ -19,12 +19,10 @@ In this project, I will be setting up an Active Directory home lab Environment u
 <p align="center">
 Setup Windows Server 2019: <br/>
 (https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/66c00ba0-cffb-4697-871f-68ed579db0cc)
-
 <br />
-
 <br />
 Assigning an IP:  <br/>
-<img src="https://imgur.com/flOdY6z"/> alt="Active Directory Steps"/>
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/2293c8e9-e122-4f1d-a61e-62f998e752a7)
 <br />
 <br />
 Enter the number of passes: <br/>
