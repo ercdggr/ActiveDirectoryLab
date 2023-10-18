@@ -19,7 +19,8 @@ In this project, I will be setting up an Active Directory home lab Environment u
 <p align="center">
 Setup Windows Server 2019: <br/>
 <img src="https://i.imgur.com/62TgaWL.png"/> alt="Active Directory Steps"/>
-<br />
+<br />![IP Assignment](https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/25e018fe-7387-419a-9889-671c3a1a2c2f)
+
 <br />
 Assigning an IP:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png"/> alt="Active Directory Steps"/>
