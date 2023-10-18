@@ -18,11 +18,11 @@ In this project, I will be setting up an Active Directory home lab Environment u
 
 <p align="center">
 Setup Windows Server 2019: <br/>
-<img src="https://i.imgur.com/62TgaWL.png"/>
+<img src="https://i.imgur.com/62TgaWL.png"/> alt="Active Directory Steps"/>
 <br />
 <br />
 Assigning an IP:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png"/>
+<img src="https://i.imgur.com/tcTyMUE.png"/> alt="Active Directory Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
