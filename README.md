@@ -22,7 +22,7 @@ Setup Windows Server 2019: <br/>
 <br />
 <br />
 Assigning an IP:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/tcTyMUE.png"/>
 <br />
 <br />
 Enter the number of passes: <br/>
