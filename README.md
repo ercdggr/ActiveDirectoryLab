@@ -8,11 +8,11 @@ In this project, I will be setting up an Active Directory home lab Environment u
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows Server 19</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
@@ -22,7 +22,7 @@ Setup Windows Server 2019: <br/>
 <br />
 <br />
 Assigning an IP:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png"/>
+<img src="[https://i.imgur.com/tcTyMUE.png](https://imgur.com/flOdY6z)"/>
 <br />
 <br />
 Enter the number of passes: <br/>
