@@ -17,12 +17,12 @@ In this project, I will be setting up an Active Directory home lab Environment u
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup Windows Server 2019: <br/>
+<img src="[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://i.imgur.com/atBEbwD.png)"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigning an IP:  <br/>
+<img src="[https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/flOdY6z)"/>
 <br />
 <br />
 Enter the number of passes: <br/>
