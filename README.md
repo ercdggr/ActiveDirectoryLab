@@ -24,7 +24,7 @@ Setup Windows Server 2019: <br/>
 
 <br />
 Assigning an IP:  <br/>
-<img src="(https://imgur.com/flOdY6z)"/> alt="Active Directory Steps"/>
+<img src="https://imgur.com/flOdY6z"/> alt="Active Directory Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
