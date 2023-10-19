@@ -43,6 +43,14 @@ Creating Users via Powershell Script:  <br/>
 <br />
 Creating Client Workstation:  <br/>
 (https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/c31f9325-719f-4624-b1d0-75dfb47a844e)
+<br />
+<br />
+Client Internet Ping Confirmation and Network Info: <br/>
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/5dc1666b-491b-4ad0-8dbf-b4ca75dcc7a0)
+<br />
+<br />
+Domain Connection Confirmation Within Domain Controller: <br/>
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/e4b98ad4-9568-45de-b0dd-bb656a77cea1)
 </p>
 
 <!--
