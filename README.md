@@ -37,8 +37,8 @@ Setting up DHCP and Scope:  <br/>
 (https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/98c6df3b-e31d-45b6-a4fc-4b2ed56e21ba)
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Users via Powershell Script:  <br/>
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/b98e6b8f-a4b3-4daa-b14d-38590ba40554)
 <br />
 <br />
 Observe the wiped disk:  <br/>
