@@ -41,8 +41,8 @@ Creating Users via Powershell Script:  <br/>
 (https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/b98e6b8f-a4b3-4daa-b14d-38590ba40554)
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Client Workstation:  <br/>
+(https://github.com/ercdggr/ActiveDirectoryLab/assets/145412926/c31f9325-719f-4624-b1d0-75dfb47a844e)
 </p>
 
 <!--
